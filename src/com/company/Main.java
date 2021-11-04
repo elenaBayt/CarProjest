@@ -10,7 +10,7 @@ public class Main {
         newCar.name="Lamboo";
         newCar.engine="hhghj";
         newCar.color="Green";
-        newCar.doors=4;
+        newCar.doors=6;
         newCar.model="aventador";
 
         System.out.println(newCar.model);
