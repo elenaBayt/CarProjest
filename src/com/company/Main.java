@@ -4,12 +4,16 @@ public class Main {
 
     public static void main(String[] args) {
 
-        car newCar = new car();
-        newCar.name = "ferrari";
-        newCar.color = "red";
-        newCar.doors = 3;
-        newCar.engine="gjjjh";
 
-        System.out.println(newCar.color);
+        car newCar=new car();
+
+        newCar.name="Lamboo";
+        newCar.engine="hhghj";
+        newCar.color="Green";
+        newCar.doors=4;
+        newCar.model="aventador";
+
+        System.out.println(newCar.model);
+
     }
 }
